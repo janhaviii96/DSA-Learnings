@@ -1,2 +1,2 @@
 # DSA-Learnings
-collection of mini  DSA projects in java language.
+It's a collection of mini DSA projects in Java language.
